@@ -21,7 +21,6 @@ public class Crud_Logic {
 //		stu.setMarks(80);
 		
 		
-		
 	    SessionFactory sessionFactory = HibernateUtility.getSessionFactory();
 	    
 	    
